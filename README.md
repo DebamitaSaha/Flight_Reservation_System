@@ -4,7 +4,7 @@ This is an online flight booking system that uses SQL, Java, HTML, and CSS.
 
 It has 3 functionalities: the customer, customer-representative, and admin. 
 
-Customers can view flights on a +-3 day interval, sort the flights by different criteria such as airline or price, reserve and cancel flights, enter a flight waiting list, and send questions to the customer representative. They can also view their past and upcoming flight reservations. 
+Customers can view flights on a +/-3 day interval, sort the flights by different criteria such as airline or price, reserve and cancel flights, enter a flight waiting list, and send questions to the customer representative. They can also view their past and upcoming flight reservations. 
 
 The customer representative can book flights on behalf of the customer, enter a customer to a flight waiting list if the flight is full, and answer customer questions. They can also retrieve a list of passengers that are on the waiting list of a particular flight and produce a list of arriving and departing flights for a given airport. 
 
